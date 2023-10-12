@@ -35,10 +35,14 @@ class Solution {
 					sum+=nums[i];
 
 					//  checking the sum is greater than the max and we assign the "sum values to max "
-					if(sum>max)
-					{
-						max=sum;
-					}
+					// ------------------first approach------------------------- 
+
+					// if(sum>max)
+					// {
+					// 	max=sum;
+					// }
+					//------------------ second apporach ----------------------------
+              max=Math.max(max,sum);
 					// we checking the sum is negative or not 
 					if(sum<0)
 					{
