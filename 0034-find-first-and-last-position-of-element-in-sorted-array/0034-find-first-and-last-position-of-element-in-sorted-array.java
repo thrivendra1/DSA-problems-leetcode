@@ -13,19 +13,25 @@ class Solution {
         while(start<=end)
         {
 
-            int i=(start+end)/2;
-            if(nums[i]==target)
+            // int i=(start+end)/2;
+            // if(nums[i]==target)
+            // {
+            //     idx=i;
+            // }
+            // if(nums[i]>=target)
+            // {
+            //     end=i-1;
+            // }
+            // else
+            // {
+            //     start=i+1;
+            // }
+            if(nums[start]==target)
             {
-                idx=i;
+                idx=start;
+                break;
             }
-            if(nums[i]>=target)
-            {
-                end=i-1;
-            }
-            else
-            {
-                start=i+1;
-            }
+            start++;
 
 
         }
