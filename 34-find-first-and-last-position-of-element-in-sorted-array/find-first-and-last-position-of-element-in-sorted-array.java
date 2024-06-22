@@ -13,18 +13,18 @@ class Solution {
         while(start<=end)
         {
 
-            // int i=(start+end)/2;
-            // if(nums[i]==target)
+            // int mid=(start+end)/2;
+            // if(nums[mid]==target)
             // {
-            //     idx=i;
+            //     idx=mid;
             // }
-            // if(nums[i]>=target)
+            // if(nums[mid]>=target)
             // {
-            //     end=i-1;
+            //     end=mid-1;
             // }
             // else
             // {
-            //     start=i+1;
+            //     start=mid+1;
             // }
             if(nums[start]==target)
             {
@@ -47,19 +47,20 @@ class Solution {
         while(start<=end)
         {
 
-            int i=(start+end)/2;
-            if(nums[i]==target)
+            int mid=(start+end)/2;
+            if(nums[mid]==target)
             {
-                idx=i;
+                idx=mid;
             }
-            if(nums[i]<=target)
+            if(target>=nums[mid])
             {
-                start=i+1;
+                start=mid+1;
+                // start=mid+1;
             }
             else
             {
                 
-                end=i-1;
+                end=mid-1;
             }
         }
        
