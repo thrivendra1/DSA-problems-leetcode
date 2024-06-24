@@ -10,6 +10,7 @@ This repository contains my solutions to various  leetcode
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0792-binary-search) |
 # Two Pointers
 |  |
@@ -22,4 +23,5 @@ This repository contains my solutions to various  leetcode
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0792-binary-search) |
