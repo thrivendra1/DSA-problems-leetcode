@@ -1,72 +1,47 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int[] result = new int[2];
-        result[0] = findFirst(nums, target);
-        result[1] = findLast(nums, target);
-        return result;
-    }
-    public int findFirst(int[] nums, int target)
-    {
-        int idx=-1;
-        int start=0;
-        int end=nums.length-1;
-        while(start<=end)
+        int first=-1;
+        int last=-1;
+        int x=target;
+        int low=0,high=nums.length-1;
+        while(low<=high)
         {
-
-            // int mid=(start+end)/2;
-            // if(nums[mid]==target)
-            // {
-            //     idx=mid;
-            // }
-            // if(nums[mid]>=target)
-            // {
-            //     end=mid-1;
-            // }
-            // else
-            // {
-            //     start=mid+1;
-            // }
-            if(nums[start]==target)
-            {
-                idx=start;
-                break;
-            }
-            start++;
-
-
-        }
-        return idx;
-    }
-       
-        
-        public int findLast(int[] nums, int target)
-    {
-        int idx=-1;
-        int start=0;
-        int end=nums.length-1;
-        while(start<=end)
-        {
-
-            int mid=(start+end)/2;
+            int mid=(low+high)/2;
             if(nums[mid]==target)
             {
-                idx=mid;
+                first=mid;
             }
-            if(target>=nums[mid])
+            if(nums[mid]>=target)
             {
-                start=mid+1;
-                // start=mid+1;
+                
+                high=mid-1;
             }
             else
             {
-                
-                end=mid-1;
+                low=mid+1;
             }
         }
-       
-        return idx;
+
+        low=0;
+        high=nums.length-1;
+        while(low<=high)
+        {
+            int mid=(low+high)/2;
+            if(nums[mid]==target)
+            {
+                last=mid;
+            }
+            if(x>=nums[mid])
+            {
+                low=mid+1;
+            }
+            else
+            {
+                high=mid-1;
+            }
+        }
+        System.out.print(first);
+        int arr[]={first,last};
+        return arr;
     }
-
-
-
 }
