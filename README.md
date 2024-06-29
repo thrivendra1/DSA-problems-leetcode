@@ -29,3 +29,14 @@ This repository contains my solutions to various  leetcode
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0792-binary-search) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0162-find-peak-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0162-find-peak-element) |
+<!---LeetCode Topics End-->
