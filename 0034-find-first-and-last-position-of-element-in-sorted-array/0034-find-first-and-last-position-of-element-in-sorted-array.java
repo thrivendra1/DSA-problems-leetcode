@@ -22,6 +22,8 @@ class Solution {
             }
         }
 
+        if(first!=-1)
+        {
         low=0;
         high=nums.length-1;
         while(low<=high)
@@ -31,7 +33,7 @@ class Solution {
             {
                 last=mid;
             }
-            if(x>=nums[mid])
+            if(target>=nums[mid])
             {
                 low=mid+1;
             }
@@ -39,6 +41,7 @@ class Solution {
             {
                 high=mid-1;
             }
+        }
         }
         System.out.print(first);
         int arr[]={first,last};
