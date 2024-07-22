@@ -58,4 +58,12 @@ This repository contains my solutions to various  leetcode
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
