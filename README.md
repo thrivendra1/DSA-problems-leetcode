@@ -40,6 +40,7 @@ This repository contains my solutions to various  leetcode
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
 |  |
@@ -49,6 +50,7 @@ This repository contains my solutions to various  leetcode
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
