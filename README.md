@@ -62,6 +62,7 @@ This repository contains my solutions to various  leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -79,10 +80,15 @@ This repository contains my solutions to various  leetcode
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0069-sqrtx) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
