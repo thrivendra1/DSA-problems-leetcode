@@ -39,6 +39,7 @@ This repository contains my solutions to various  leetcode
 | [0074-search-a-2d-matrix](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -54,6 +55,7 @@ This repository contains my solutions to various  leetcode
 | [0069-sqrtx](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0907-koko-eating-bananas) |
@@ -102,4 +104,9 @@ This repository contains my solutions to various  leetcode
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
