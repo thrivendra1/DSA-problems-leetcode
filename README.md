@@ -98,6 +98,7 @@ This repository contains my solutions to various  leetcode
 | ------- |
 | [0013-roman-to-integer](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0014-longest-common-prefix) |
+| [1078-remove-outermost-parentheses](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -112,4 +113,8 @@ This repository contains my solutions to various  leetcode
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
