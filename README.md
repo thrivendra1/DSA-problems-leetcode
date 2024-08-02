@@ -98,6 +98,7 @@ This repository contains my solutions to various  leetcode
 | ------- |
 | [0013-roman-to-integer](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Trie
 |  |
@@ -116,5 +117,6 @@ This repository contains my solutions to various  leetcode
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
