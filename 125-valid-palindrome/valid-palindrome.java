@@ -71,6 +71,10 @@ class Solution {
 
     // }
 
+
+// i don't use any inbuilt function the below code
+
+// checking the letter was in the range or not
 static boolean checking(char ch)
     {
         // 0
@@ -83,7 +87,7 @@ static boolean checking(char ch)
 
     }
 
-    //changing lowercase
+    //changing uppercase to lowercase
 
     static char lowercase(char ch)
     {
@@ -110,18 +114,16 @@ static boolean checking(char ch)
             {
                 char ch=s.charAt(i);
                 // changing letter to lowercase
-                char c=lowercase(ch);
-//                if(Character.isLetter(c) || Character.isDigit(c))
-//                {
-//                    word+=c;
-//                }
-                if(checking(c))
+                char c=lowercase(ch); // changing the word from uppercase to lowercase
+                if(checking(c)) // cheking the the word was alphabets or digit
                 {
                     word+=c;
                 }
             }
 
         }
+
+        // i am using two pointer 
         int start=0;
         int end=word.length()-1;
         while(start<=end)
