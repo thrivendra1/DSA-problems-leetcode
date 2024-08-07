@@ -15,10 +15,14 @@ class Solution {
                 for(int i=0;i<s.length();i++)
                 {
                     char c=s.charAt(i);
-                    if(Character.isLetter(c) || Character.isDigit(c))
-                    {
+                    // if(Character.isLetter(c) || Character.isDigit(c))
+                    // {
+                    // word+=c;
+                    // }
+                    if(checking(c))
+                {
                     word+=c;
-                    }
+                }
                 }
             
             }
@@ -54,5 +58,16 @@ class Solution {
         
         System.out.print(word.length());
         return result;
+    }
+
+    static boolean checking(char ch)
+    {
+        // 0
+        if((ch>='a' && ch<='z') || (ch>='0' && ch<='9') )
+        {
+            return true;
+        }
+        return false;
+
     }
 }
