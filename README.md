@@ -70,6 +70,7 @@ This repository contains my solutions to various  leetcode
 | ------- |
 | [0013-roman-to-integer](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -107,6 +108,7 @@ This repository contains my solutions to various  leetcode
 | [0168-excel-sheet-column-title](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0383-ransom-note) |
 | [0812-rotate-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Trie
@@ -141,4 +143,8 @@ This repository contains my solutions to various  leetcode
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0812-rotate-string) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
