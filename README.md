@@ -106,6 +106,7 @@ This repository contains my solutions to various  leetcode
 | [0151-reverse-words-in-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0812-rotate-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Trie
@@ -134,6 +135,7 @@ This repository contains my solutions to various  leetcode
 | [0125-valid-palindrome](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String Matching
 |  |
 | ------- |
