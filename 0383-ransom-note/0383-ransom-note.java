@@ -2,6 +2,7 @@ class Solution {
     public boolean canConstruct(String ransomNote, String magazine) 
     {
         // time complexxciy was O(n^2);
+        //Type-1 soultion
         /*String st=ransomNote;
         char st1[]=magazine.toCharArray();
         boolean ans=false;
@@ -32,6 +33,8 @@ class Solution {
         }
         return ans;
         */
+
+        ////Type-2 soultion
         int count[]=new int[26];
         for(char c:magazine.toCharArray())
         {
