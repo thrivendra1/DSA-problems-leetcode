@@ -3,7 +3,7 @@ class Solution {
     {
         Stack<String> stack = new Stack<String>();
         String word="";
-        s=s.trim();
+        // s=s.trim();
         for(int i=0;i<s.length();i++)
         {
             if(s.charAt(i)==' ')
@@ -20,7 +20,11 @@ class Solution {
             }
         }
         
-        stack.push(word);
+        if(!word.isEmpty())
+                {
+                    stack.push(word);
+                    
+                }
         System.out.println(stack);
         // chaning stack to string
         StringBuilder string=new StringBuilder();
