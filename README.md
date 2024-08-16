@@ -35,6 +35,7 @@ This repository contains my solutions to various  leetcode
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0162-find-peak-element) |
@@ -127,6 +128,7 @@ This repository contains my solutions to various  leetcode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
@@ -156,4 +158,8 @@ This repository contains my solutions to various  leetcode
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
