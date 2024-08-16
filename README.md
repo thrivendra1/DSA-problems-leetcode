@@ -38,6 +38,7 @@ This repository contains my solutions to various  leetcode
 | [0053-maximum-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0152-maximum-product-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -162,4 +163,5 @@ This repository contains my solutions to various  leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
