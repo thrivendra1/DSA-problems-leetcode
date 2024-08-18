@@ -41,6 +41,7 @@ This repository contains my solutions to various  leetcode
 | [0152-maximum-product-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -72,6 +73,7 @@ This repository contains my solutions to various  leetcode
 | ------- |
 | [0013-roman-to-integer](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -164,4 +166,8 @@ This repository contains my solutions to various  leetcode
 | ------- |
 | [0053-maximum-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0152-maximum-product-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
