@@ -14,10 +14,12 @@ class Solution {
         ArrayList<Integer> arr=new ArrayList<>();
 
         ListNode temp=head;
+        int count=0;
         while(temp!=null)
         {
             arr.add(temp.val);
             temp=temp.next;
+            count++;
         }
         
         Collections.sort(arr);
@@ -28,6 +30,7 @@ class Solution {
             temp.val=arr.get(i);
             temp=temp.next;
         }
+        
         return head;
         
     }
