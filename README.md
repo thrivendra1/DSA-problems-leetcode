@@ -85,6 +85,7 @@ This repository contains my solutions to various  leetcode
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0328-odd-even-linked-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
