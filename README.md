@@ -86,6 +86,7 @@ This repository contains my solutions to various  leetcode
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -103,6 +104,7 @@ This repository contains my solutions to various  leetcode
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -136,6 +138,7 @@ This repository contains my solutions to various  leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
@@ -149,6 +152,7 @@ This repository contains my solutions to various  leetcode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -177,4 +181,8 @@ This repository contains my solutions to various  leetcode
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0219-contains-duplicate-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
