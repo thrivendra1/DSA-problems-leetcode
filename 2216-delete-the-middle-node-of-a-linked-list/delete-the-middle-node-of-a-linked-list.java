@@ -23,16 +23,7 @@ class Solution {
             temp=temp.next;
         }
         int middleindex=count/2;
-        // temp=head;
-        // for(int i=0;i<count;i++)
-        // {
-        //     if(i==middleindex)
-        //     {
-        //         break;
-        //     }
-        //     temp=temp.next;
-        // }
-        // temp.next=temp.next.next;
+
         ListNode kNode=head;
         while(kNode!=null)
         {
@@ -43,7 +34,6 @@ class Solution {
             }
             kNode=kNode.next;
         }
-        System.out.println(kNode.val);
         kNode.next=kNode.next.next;
         
         return head;
