@@ -31,10 +31,12 @@ class Solution {
                 sum=sum+headB.val;
                 headB=headB.next;
             }
+
             
             sum+=carry;
             carry=sum/10;
-            ListNode value=new ListNode(sum%10);
+            sum=sum%10;
+            ListNode value=new ListNode(sum);
             temp.next=value;
             temp=value;
             
