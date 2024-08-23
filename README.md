@@ -85,6 +85,7 @@ This repository contains my solutions to various  leetcode
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0148-sort-list) |
@@ -95,10 +96,12 @@ This repository contains my solutions to various  leetcode
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0069-sqrtx) |
