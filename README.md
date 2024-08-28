@@ -43,6 +43,7 @@ This repository contains my solutions to various  leetcode
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0414-third-maximum-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -115,6 +116,7 @@ This repository contains my solutions to various  leetcode
 | ------- |
 | [0148-sort-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0414-third-maximum-number) |
 ## String
 |  |
 | ------- |
