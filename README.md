@@ -34,6 +34,7 @@ This repository contains my solutions to various  leetcode
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0066-plus-one) |
@@ -161,6 +162,7 @@ This repository contains my solutions to various  leetcode
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0125-valid-palindrome) |
