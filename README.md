@@ -104,6 +104,7 @@ This repository contains my solutions to various  leetcode
 | [0002-add-two-numbers](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0203-remove-linked-list-elements) |
+| [1013-fibonacci-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +113,7 @@ This repository contains my solutions to various  leetcode
 | [0066-plus-one](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0168-excel-sheet-column-title) |
+| [1013-fibonacci-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -192,6 +194,7 @@ This repository contains my solutions to various  leetcode
 | ------- |
 | [0053-maximum-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -200,4 +203,8 @@ This repository contains my solutions to various  leetcode
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0148-sort-list) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
