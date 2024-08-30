@@ -22,13 +22,14 @@ class Solution {
 
         // Apporach-2 we are using recursion
 
-        // if(n<=1)
-        // {
-        //     return n;
-        // }
-        // int flast=fib(n-1);
-        // int slast=fib(n-2);
-        // return flast+slast;
+        /*if(n<=1)
+        {
+            return n;
+        }
+        int flast=fib(n-1);
+        int slast=fib(n-2);
+        return flast+slast;
+        */
         
     }
 }
