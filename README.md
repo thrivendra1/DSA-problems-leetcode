@@ -110,6 +110,7 @@ This repository contains my solutions to various  leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -207,4 +208,8 @@ This repository contains my solutions to various  leetcode
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
