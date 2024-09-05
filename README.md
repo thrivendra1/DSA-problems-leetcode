@@ -105,6 +105,7 @@ This repository contains my solutions to various  leetcode
 | [0002-add-two-numbers](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -115,6 +116,7 @@ This repository contains my solutions to various  leetcode
 | [0066-plus-one](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
@@ -214,6 +216,7 @@ This repository contains my solutions to various  leetcode
 | ------- |
 | [0029-divide-two-integers](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
