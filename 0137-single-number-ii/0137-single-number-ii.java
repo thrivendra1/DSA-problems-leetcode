@@ -27,7 +27,7 @@ class Solution {
         return ans;
         */
         // bit manibputaion  Apporach-1
-
+            /*
         int ans=0;
         for (int bitindex=0;bitindex<=31;bitindex++)  // Time complexity-O(31)
         {
@@ -46,5 +46,17 @@ class Solution {
             }
         }
         return ans;
+        */
+
+        // bit manibputaion  Apporach-2  TImeComplescity-o(N)  spaceComplecity-o(1)
+
+        int ones=0,twos=0;
+
+        for(int i=0;i<nums.length;i++)
+        {
+            ones=(ones^nums[i])&~twos;
+            twos=(twos^nums[i])&~ones;
+        }
+        return ones;
     }
 }
