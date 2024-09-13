@@ -4,7 +4,6 @@ class Solution {
         /*
         // Apporach-1 using HashMap
         HashMap<Integer,Integer> map=new HashMap<>();
-
         for(int number:nums)
         {
             if(map.containsKey(number))
