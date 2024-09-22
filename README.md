@@ -40,6 +40,7 @@ This repository contains my solutions to various  leetcode
 | [0053-maximum-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0152-maximum-product-subarray) |
@@ -124,6 +125,7 @@ This repository contains my solutions to various  leetcode
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0414-third-maximum-number) |
@@ -177,6 +179,7 @@ This repository contains my solutions to various  leetcode
 | [0027-remove-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0151-reverse-words-in-a-string) |
