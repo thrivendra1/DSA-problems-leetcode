@@ -1,22 +1,35 @@
 class Solution {
-    public int searchInsert(int[] nums, int target) {
-        int n=nums.length;
-        int low=0;
-        int high=n-1;
-        int ans=n;
-        while(low<=high)
-        {
-            int mid=(low+high)/2;
-            if(nums[mid]>=target)
+    public int searchInsert(int[] matrix, int target) 
+    {
+      
+            int low=0;
+            int high=matrix.length-1;
+            int ans=-1;
+            boolean flag=false;
+            while(low<=high)
             {
-                ans=mid;
-                high=mid-1;
+                int mid=(low+high)/2;
+                if(matrix[mid]==target)
+                {
+                    return mid;
+                }
+                else if(matrix[mid]>target)
+                {
+                    flag=true;
+                    ans=mid;
+                    high=mid-1;
+                }
+                else {
+                    low=mid+1;
+                }
             }
-            else
+            if(flag==false)
             {
-                low=mid+1;
+                ans=matrix.length;
+
             }
-        }
+
+        
         return ans;
         
     }
