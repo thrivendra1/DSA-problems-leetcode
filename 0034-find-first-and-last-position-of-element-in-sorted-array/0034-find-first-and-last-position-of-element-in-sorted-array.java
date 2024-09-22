@@ -4,6 +4,7 @@ class Solution {
         int last=-1;
         int x=target;
         int low=0,high=nums.length-1;
+        // Checking if the target number is on the left side.
         while(low<=high)
         {
             int mid=(low+high)/2;
@@ -43,8 +44,7 @@ class Solution {
             }
         }
         }
-        System.out.print(first);
-        int arr[]={first,last};
-        return arr;
+        // int arr[]={first,last};
+        return new int[] {first,last};
     }
 }
