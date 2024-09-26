@@ -11,7 +11,7 @@ class Solution {
             }
             if(i<nums.length)
             {
-                if(stack.isEmpty()==false) result[i]=stack.peek();
+                if(!stack.isEmpty()) result[i]=stack.peek();
                 else
                 {
                     result[i]=-1;
