@@ -51,6 +51,7 @@ This repository contains my solutions to various  leetcode
 | [0240-search-a-2d-matrix-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0414-third-maximum-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -175,6 +176,7 @@ This repository contains my solutions to various  leetcode
 | [0225-implement-stack-using-queues](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
@@ -249,4 +251,5 @@ This repository contains my solutions to various  leetcode
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
