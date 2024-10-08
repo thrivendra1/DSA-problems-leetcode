@@ -54,6 +54,7 @@ This repository contains my solutions to various  leetcode
 | [0496-next-greater-element-i](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0907-koko-eating-bananas) |
@@ -179,6 +180,7 @@ This repository contains my solutions to various  leetcode
 | [0232-implement-queue-using-stacks](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
@@ -254,4 +256,8 @@ This repository contains my solutions to various  leetcode
 | ------- |
 | [0496-next-greater-element-i](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0503-next-greater-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
