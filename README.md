@@ -62,6 +62,7 @@ This repository contains my solutions to various  leetcode
 | [1046-max-consecutive-ones-iii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -102,6 +103,7 @@ This repository contains my solutions to various  leetcode
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
 |  |
 | ------- |
@@ -237,6 +239,7 @@ This repository contains my solutions to various  leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Merge Sort
 |  |
 | ------- |
