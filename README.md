@@ -59,6 +59,7 @@ This repository contains my solutions to various  leetcode
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0907-koko-eating-bananas) |
+| [0966-binary-subarrays-with-sum](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -98,10 +99,12 @@ This repository contains my solutions to various  leetcode
 | [0387-first-unique-character-in-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0966-binary-subarrays-with-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
@@ -238,6 +241,7 @@ This repository contains my solutions to various  leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Merge Sort
