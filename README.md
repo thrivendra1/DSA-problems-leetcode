@@ -97,6 +97,7 @@ This repository contains my solutions to various  leetcode
 | [0219-contains-duplicate-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -165,6 +166,7 @@ This repository contains my solutions to various  leetcode
 | [0383-ransom-note](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -241,6 +243,7 @@ This repository contains my solutions to various  leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
