@@ -51,6 +51,7 @@ This repository contains my solutions to various  leetcode
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0503-next-greater-element-ii) |
@@ -79,6 +80,7 @@ This repository contains my solutions to various  leetcode
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0907-koko-eating-bananas) |
@@ -218,6 +220,7 @@ This repository contains my solutions to various  leetcode
 | [0148-sort-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -270,6 +273,7 @@ This repository contains my solutions to various  leetcode
 | [0078-subsets](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
