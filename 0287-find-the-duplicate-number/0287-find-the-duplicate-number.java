@@ -17,15 +17,31 @@ class Solution {
         // return repeated_number;
 
         //---------------Better apporach----------------
-        Arrays.sort(nums);
-        for(int i=0;i<n-1;i++)
+        // Arrays.sort(nums);
+        // for(int i=0;i<n-1;i++)
+        // {
+        //     if(nums[i]==nums[i+1])
+        //     {
+        //         repeated_number=nums[i];
+        //         break;
+        //     }
+        // }
+        // return repeated_number;
+
+
+        HashMap<Integer,Integer> map=new HashMap<>();
+
+        for(int i=0;i<nums.length;i++)
         {
-            if(nums[i]==nums[i+1])
+            if(map.containsKey(nums[i]))
             {
-                repeated_number=nums[i];
-                break;
+                return nums[i];
+            }
+            else
+            {
+                map.put(nums[i],1);
             }
         }
-        return repeated_number;
+        return -1;
     }
 }
