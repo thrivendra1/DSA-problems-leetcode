@@ -136,6 +136,7 @@ This repository contains my solutions to various  leetcode
 | [0021-merge-two-sorted-lists](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0231-power-of-two) |
+| [0795-k-th-symbol-in-grammar](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -148,6 +149,7 @@ This repository contains my solutions to various  leetcode
 | [0168-excel-sheet-column-title](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0231-power-of-two) |
+| [0795-k-th-symbol-in-grammar](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sorting
@@ -277,6 +279,7 @@ This repository contains my solutions to various  leetcode
 | [0137-single-number-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0795-k-th-symbol-in-grammar](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
