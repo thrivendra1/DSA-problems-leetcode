@@ -1,29 +1,46 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) 
     {
-        List<List<Integer>>  result=new ArrayList<>();
-        List<Integer> subset =new ArrayList<>();
+        ArrayList<Integer> input=new ArrayList<>();
+        for(int num:nums)
+        {
+            input.add(num);
+        }
 
-        Subsequences(0,nums,result,subset);
+        List<List<Integer>> result=new ArrayList<>();
+        List<Integer> output=new ArrayList<>();
+
+
+        in_ou(input,output,result);
         return result;
         
     }
 
-    public void Subsequences(int index,int [] arr, List<List<Integer>>  result,List<Integer> subset)
+    static public void in_ou(List<Integer> input,List<Integer> output,List<List<Integer>> result)
     {
-        if(index==arr.length)
+        //bs
+        if(input.isEmpty())
         {
-            result.add(new ArrayList<>(subset));
-            // result.add(subset);
+            result.add(new ArrayList<>(output));
+            System.out.println(output);
             return;
         }
 
-        subset.add(arr[index]);
-        Subsequences(index+1,arr,result,subset);
+        List<Integer> ou1=new ArrayList<>(output);
+        List<Integer> ou2=new ArrayList<>(output);
 
-        // removing 
-        subset.remove(subset.size()-1);
-        Subsequences(index+1,arr,result,subset);
+        ou2.add(input.get(0));
+
+        List<Integer> inputcopy=new ArrayList<>(input);
+
+        inputcopy.remove(0);
+
+        in_ou(inputcopy,ou1,result);
+        in_ou(inputcopy,ou2,result);
+
+
+
+
 
     }
 }
