@@ -1,6 +1,7 @@
 class Solution {
     static public List<List<Integer>> subsetsWithDup(int[] nums)
     {
+        Arrays.sort(nums);
 
         List<Integer> input=new ArrayList<>();
         for(int n:nums)
@@ -17,20 +18,20 @@ class Solution {
 
         System.out.println("----------------------");
 
-        // Sorting each subset in ascending order
-        for(List<Integer> subset : result) {
-            Collections.sort(subset);
-        }
+        // // Sorting each subset in ascending order
+        // for(List<Integer> subset : result) {
+        //     Collections.sort(subset);
+        // }
 
-        // Sorting the entire result based on subsets
-        result.sort((a, b) -> {
-            for (int i = 0; i < Math.min(a.size(), b.size()); i++) {
-                if (!a.get(i).equals(b.get(i))) {
-                    return a.get(i) - b.get(i); // Compare elements
-                }
-            }
-            return a.size() - b.size(); // If equal, smaller list first
-        });
+        // // Sorting the entire result based on subsets
+        // result.sort((a, b) -> {
+        //     for (int i = 0; i < Math.min(a.size(), b.size()); i++) {
+        //         if (!a.get(i).equals(b.get(i))) {
+        //             return a.get(i) - b.get(i); // Compare elements
+        //         }
+        //     }
+        //     return a.size() - b.size(); // If equal, smaller list first
+        // });
 
         result=remove_duplicates(result);
 
