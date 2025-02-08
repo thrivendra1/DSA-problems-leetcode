@@ -179,6 +179,7 @@ This repository contains my solutions to various  leetcode
 | [0387-first-unique-character-in-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0800-letter-case-permutation](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -282,12 +283,14 @@ This repository contains my solutions to various  leetcode
 | [0231-power-of-two](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0795-k-th-symbol-in-grammar) |
+| [0800-letter-case-permutation](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0800-letter-case-permutation) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0090-subsets-ii) |
+| [0800-letter-case-permutation](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0800-letter-case-permutation) |
 ## Design
 |  |
 | ------- |
