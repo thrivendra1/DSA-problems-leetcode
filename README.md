@@ -38,6 +38,7 @@ This repository contains my solutions to various  leetcode
 | [0033-search-in-rotated-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0046-permutations) |
@@ -102,6 +103,7 @@ This repository contains my solutions to various  leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -196,6 +198,7 @@ This repository contains my solutions to various  leetcode
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -293,6 +296,7 @@ This repository contains my solutions to various  leetcode
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0046-permutations) |
