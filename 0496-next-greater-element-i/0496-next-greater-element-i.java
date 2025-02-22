@@ -73,12 +73,14 @@ class Solution {
                 }
                 st.push(nums2[i]);
             }
-
+            
+            System.out.println(map);
             int result[]=new int[nums1.length];
 
             for(int i=0;i<nums1.length;i++)
             {
                 result[i]=map.get(nums1[i]);
+                
             }
             return result;
         }
