@@ -22,7 +22,7 @@ class Solution {
         if(input.isEmpty())
         {
             result.add(new ArrayList<>(output));
-            System.out.println(output);
+            // System.out.println(output);
             return;
         }
 
@@ -37,10 +37,6 @@ class Solution {
 
         in_ou(inputcopy,ou1,result);
         in_ou(inputcopy,ou2,result);
-
-
-
-
 
     }
 }
