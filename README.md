@@ -69,6 +69,7 @@ This repository contains my solutions to various  leetcode
 | [0735-asteroid-collision](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -341,6 +342,7 @@ This repository contains my solutions to various  leetcode
 | ------- |
 | [0402-remove-k-digits](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0890-lemonade-change) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
