@@ -45,6 +45,7 @@ This repository contains my solutions to various  leetcode
 | [0046-permutations](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0075-sort-colors) |
@@ -276,6 +277,7 @@ This repository contains my solutions to various  leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1013-fibonacci-number) |
@@ -343,6 +345,7 @@ This repository contains my solutions to various  leetcode
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0678-valid-parenthesis-string) |
