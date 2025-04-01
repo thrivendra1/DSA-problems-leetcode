@@ -3,8 +3,7 @@ class Solution {
     {
         int fivebill=0;
         int tenbill=0;
-        int tenwtybill=0;
-
+        
         for(int i=0;i<bills.length;i++)
         {
             if(bills[i]==5)
@@ -27,7 +26,7 @@ class Solution {
 
             else if(bills[i]==20)
             {
-                tenwtybill++;
+                
                 if(fivebill>0 && tenbill>0 )
                 {
                     fivebill--;
@@ -48,10 +47,7 @@ class Solution {
             }
         }
 
-        if(fivebill <0 || tenbill<0)
-        {
-            return false;
-        }
+        
         return true;
         
     }
