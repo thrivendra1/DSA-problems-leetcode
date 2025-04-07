@@ -227,6 +227,7 @@ This repository contains my solutions to various  leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -369,4 +370,16 @@ This repository contains my solutions to various  leetcode
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0948-sort-an-array) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
