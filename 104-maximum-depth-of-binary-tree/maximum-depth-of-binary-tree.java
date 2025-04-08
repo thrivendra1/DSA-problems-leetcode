@@ -18,6 +18,14 @@ class Solution {
     {
         if(root==null) return 0;
 
+        int lh=maxDepth(root.left);
+        int rh=maxDepth(root.right);
+        return 1+Math.max(lh,rh);
+
+            /*
+        // level order code (zigzagLevelOrderlevel5)
+        if(root==null) return 0;
+
         int count=0;
 
         Queue<TreeNode> q=new LinkedList<>();
@@ -38,6 +46,7 @@ class Solution {
         }
 
         return count;
+        */
         
     }
 }
