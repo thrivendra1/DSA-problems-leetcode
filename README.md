@@ -169,6 +169,7 @@ This repository contains my solutions to various  leetcode
 | [0795-k-th-symbol-in-grammar](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2032-largest-odd-number-in-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -204,6 +205,7 @@ This repository contains my solutions to various  leetcode
 | [1078-remove-outermost-parentheses](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -354,6 +356,7 @@ This repository contains my solutions to various  leetcode
 | [0455-assign-cookies](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0890-lemonade-change) |
+| [2032-largest-odd-number-in-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
