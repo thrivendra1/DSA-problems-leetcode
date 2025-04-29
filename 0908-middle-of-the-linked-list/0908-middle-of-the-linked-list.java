@@ -11,6 +11,7 @@
 class Solution {
     public ListNode middleNode(ListNode head) {
         
+        /*
         ListNode tempNode=head;
 
         int size_of_LL=0;
@@ -51,6 +52,15 @@ class Solution {
         }
 
         return temp;
+        */
 
+        ListNode fast=head,slow=head;
+
+        while(fast!=null && fast.next!=null)
+        {
+            fast=fast.next.next;
+            slow=slow.next;
+        }
+        return slow;
     }
 }
