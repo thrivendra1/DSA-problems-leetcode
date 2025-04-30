@@ -57,6 +57,7 @@ This repository contains my solutions to various  leetcode
 | [0152-maximum-product-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
@@ -112,6 +113,7 @@ This repository contains my solutions to various  leetcode
 | [0037-sudoku-solver](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0383-ransom-note) |
@@ -177,6 +179,7 @@ This repository contains my solutions to various  leetcode
 | [0075-sort-colors](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0455-assign-cookies) |
@@ -223,6 +226,7 @@ This repository contains my solutions to various  leetcode
 | [0023-merge-k-sorted-lists](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0948-sort-an-array) |
 ## Stack
@@ -271,6 +275,7 @@ This repository contains my solutions to various  leetcode
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
