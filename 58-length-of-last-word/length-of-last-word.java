@@ -9,7 +9,7 @@ class Solution {
             {
                break;
             }
-             else if(Character.isAlphabetic(s.charAt(i)))
+            else if(s.charAt(i)!=' ')
             {
                 count++;
             }
