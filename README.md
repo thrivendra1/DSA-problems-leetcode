@@ -54,6 +54,7 @@ This repository contains my solutions to various  leetcode
 | [0078-subsets](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -292,6 +293,7 @@ This repository contains my solutions to various  leetcode
 | ------- |
 | [0053-maximum-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1013-fibonacci-number) |
