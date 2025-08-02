@@ -9,48 +9,58 @@
  * }
  */
 class Solution {
-    static public ListNode middleNode(ListNode head) {
-            double count=0;
-            ListNode temp=head;
+    public ListNode middleNode(ListNode head) {
+        
+        /*
+        ListNode tempNode=head;
 
-            while(temp!=null)
-            {
-                count++;
-                temp=temp.next;
-            }
-            int result=0;
+        int size_of_LL=0;
 
-            if(count%2==0)
-            {
-                count=count/2;
-                result=(int)count+1;
-            }
+        int middlNode=0;
 
-            else
-            {
-                //    double result=count/2;
-                //     System.out.println(result);
-                //     count=(int)Math.ceil(result);
-
-                count=count/2;
-                result=(int)count+1;
-            }
-
-            temp=head;
-            int num=0;
-            while(temp!=null)
-            {
-                num++;
-                if(num>=result)
-                {
-                    break;
-
-                }
-
-                temp=temp.next;
-
-            }
-
-            return temp;
+        while(tempNode!=null)
+        {
+            size_of_LL++;
+            tempNode=tempNode.next;
         }
+        System.out.println(size_of_LL);
+
+        if(size_of_LL%2==0)
+        {
+            size_of_LL=size_of_LL/2;
+           middlNode= size_of_LL+1;   
+        }
+        else
+        {
+           size_of_LL=size_of_LL/2;
+            middlNode=size_of_LL+1;   
+        }
+        System.out.println(middlNode);
+
+       ListNode temp=head;
+
+        int count=0;
+        while(temp!=null)
+        {
+             count++;
+            if(count>=middlNode)
+            {
+                break;
+            }
+           
+            temp=temp.next;
+        }
+
+        return temp;
+        */
+
+        ListNode fast=head,slow=head;
+
+        while(fast!=null && fast.next!=null)
+        {
+            fast=fast.next.next;
+            slow=slow.next;
+        }
+        return slow;
+    }
 }
