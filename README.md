@@ -65,6 +65,7 @@ This repository contains my solutions to various  leetcode
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0455-assign-cookies) |
@@ -98,6 +99,7 @@ This repository contains my solutions to various  leetcode
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -120,6 +122,7 @@ This repository contains my solutions to various  leetcode
 | [0169-majority-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -172,6 +175,7 @@ This repository contains my solutions to various  leetcode
 | [0168-excel-sheet-column-title](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -185,6 +189,7 @@ This repository contains my solutions to various  leetcode
 | [0148-sort-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0948-sort-an-array) |
@@ -326,6 +331,7 @@ This repository contains my solutions to various  leetcode
 | [0090-subsets-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0800-letter-case-permutation) |
