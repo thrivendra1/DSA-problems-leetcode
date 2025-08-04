@@ -88,6 +88,7 @@ This repository contains my solutions to various  leetcode
 | [1646-kth-missing-positive-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -276,6 +277,7 @@ This repository contains my solutions to various  leetcode
 | [0455-assign-cookies](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String Matching
 |  |
 | ------- |
@@ -364,6 +366,7 @@ This repository contains my solutions to various  leetcode
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0735-asteroid-collision) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
