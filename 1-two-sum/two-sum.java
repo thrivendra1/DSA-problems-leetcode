@@ -46,7 +46,7 @@ class Solution {
             {
                 startindex=i;
             }
-            else if(end==nums[i]  && endindex==-1)
+            else if(end==nums[i] && i!=startindex && endindex==-1)
             {
                 endindex=i;
             }
