@@ -15,13 +15,11 @@ class Solution {
         }
         sortarrray(dulpicatearray,0,dulpicatearray.length-1);
 
-for(int a:dulpicatearray)
-{
-    System.out.print(a+" ");
-}
+
         int start=0;
         int end=0;
 
+        // using two pointer 
         int left=0,right=dulpicatearray.length-1;
         while(left<right)
         {
@@ -48,7 +46,7 @@ for(int a:dulpicatearray)
             {
                 startindex=i;
             }
-            else if(end==nums[i] && i!=startindex && endindex==-1)
+            else if(end==nums[i]  && endindex==-1)
             {
                 endindex=i;
             }
