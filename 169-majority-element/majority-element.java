@@ -7,7 +7,6 @@ class Solution {
             if(numbers.containsKey(nums[i]))
             {
                 numbers.put(nums[i],numbers.get(nums[i])+1);
-                 System.out.print(numbermax);
             }
             else
             {
