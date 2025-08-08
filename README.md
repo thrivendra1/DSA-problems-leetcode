@@ -56,6 +56,7 @@ This repository contains my solutions to various  leetcode
 | [0088-merge-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -119,6 +120,7 @@ This repository contains my solutions to various  leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0169-majority-element) |
@@ -436,4 +438,8 @@ This repository contains my solutions to various  leetcode
 | [0102-binary-tree-level-order-traversal](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
