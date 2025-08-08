@@ -1,45 +1,58 @@
 class Solution {
     public void nextPermutation(int[] nums) {
-        int ind1=-1;
-        int ind2=-1;
-        // step 1 find breaking point 
-        for(int i=nums.length-2;i>=0;i--){
-            if(nums[i]<nums[i+1]){
-                ind1=i;
+        
+        int firstnumber=-1;
+        int secondnumber=-1;
+
+        for(int i=nums.length-2;i>=0;i--)
+        {
+            if(nums[i+1]>nums[i])
+            {
+                firstnumber=i;
                 break;
             }
         }
-        // if there is no breaking  point 
-        if(ind1==-1){
+
+        if(firstnumber==-1)
+        {
             reverse(nums,0);
         }
-        
-        else{
-            // step 2 find next greater element and swap with ind2
-            for(int i=nums.length-1;i>=0;i--){
-                if(nums[i]>nums[ind1]){
-                    ind2=i;
+        else
+        {
+            for(int i=nums.length-1;i>=0;i--)
+            {
+                if(nums[i]>nums[firstnumber])
+                {
+                    secondnumber=i;
                     break;
                 }
             }
 
-            swap(nums,ind1,ind2);
-            // step 3 reverse the rest right half
-            reverse(nums,ind1+1);
+            swap(nums,firstnumber,secondnumber);
+
+            reverse(nums,firstnumber+1);
         }
     }
-    void swap(int[] nums,int i,int j){
-        int temp=nums[i];
-        nums[i]=nums[j];
-        nums[j]=temp;
+
+    public void swap(int []nums,int f,int s)
+    {
+        int temp=nums[f];
+        nums[f]=nums[s];
+        nums[s]=temp;
     }
-    void reverse(int[] nums,int start){
-        int i=start;
-        int j=nums.length-1;
-        while(i<j){
-            swap(nums,i,j);
-            i++;
-            j--;
+
+    public void reverse(int [] nums,int i)
+    {
+        int start=i;
+        int last=nums.length-1;
+
+        while(start<last)
+        {
+            int temp=nums[start];
+            nums[start]=nums[last];
+            nums[last]=temp;
+            start++;
+            last--;
         }
     }
 }
