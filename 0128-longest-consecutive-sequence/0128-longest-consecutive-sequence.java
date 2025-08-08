@@ -1,67 +1,82 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
-        Arrays.sort(nums);
-        int n=nums.length;
-       if(n==0) return 0;
+    /*
+    // APPORACH 1: 
+    // it gives correct output , but it take the TLE(Time Limit Exceeded)
+        int minNumber=Integer.MAX_VALUE;
+        int maxNumber=Integer.MIN_VALUE;
 
-//        // we intizial a small numer 
-//         int lastsmall=Integer.MIN_VALUE, count=0,b=1;
-        
-//         for(int i=0;i<n;i++)
-//         {
-//             // checking the lastsmall number with arr[i] 
-//             if(lastsmall+1!=nums[i] && lastsmall!=nums[i])
-//             {
-//                 count=1;
-//                 lastsmall=nums[i];
-//             }
-//             System.out.println(lastsmall);
-//             if(lastsmall+1==nums[i])
-//             {
-//                 count++;
-//                 lastsmall=nums[i];
-//             }
-//             // System.out.println(lastsmall);
-//             b = Math.max(b, count);
-//             System.out.println("b "+b);
-//         }
-// //        return b;
-//         int count=0;
-//         int nu=0;
-//         for(int i=0;i<nums.length;i++)
-//         {
-//             if(nums[i]>=0){
-            
-//             if(i<nums.length-1)
-//             {
-//              nu=nums[i]-nu;
-//             }
-//             if(nu==1)
-//             {
-//                 count++;
-//             }
-//             }
-//         }
-//         System.out.println(count);
-//         return count+1;
-        int current_length=1;
-        int max_length=1;
-        for(int i=1;i<n;i++)
+        HashSet<Integer> hash=new HashSet<>();
+
+        for(int i=0;i<nums.length;i++)
         {
-            if(nums[i]!=nums[i-1])
+            if(!hash.contains(nums[i]))
             {
-                if(nums[i]== nums[i-1]+1)
+                hash.add(nums[i]);
+            }
+
+            minNumber=Math.min(minNumber,nums[i]);
+            maxNumber=Math.max(maxNumber,nums[i]);
+        }
+        
+        int count=0;
+        int maxcount=0;
+
+        int size=0;
+        for(int i=minNumber;i<=maxNumber;i++)
+        {
+            if(size<hash.size())
+            {
+                if(hash.contains(i))
                 {
-                    current_length++;   
+                    count++;
+                    size++;
                 }
                 else
                 {
-                    current_length=1;
+                    count=0;
                 }
+                maxcount=Math.max(maxcount,count);
             }
-            max_length=Math.max(max_length,current_length);
+            else
+            {
+                break;
+            }
         }
-        System.out.println(max_length);
-        return max_length;
+        return maxcount;
+        */
+
+
+
+        //Apporach 2:
+
+        if(nums.length==0) return 0;
+
+        HashSet<Integer> hash=new HashSet<>();
+
+        for(int n:nums)
+        {
+            hash.add(n);
+        }
+        int maxcount=1;
+
+        for(int n:hash)
+        {
+            if(!hash.contains(n-1))
+            {
+                int count=1;
+                int number=n;
+
+                while(hash.contains(number+1))
+                {
+                    number++;
+                    count++;
+                }
+                maxcount=Math.max(maxcount,count);
+            }
+
+        }
+        return maxcount;
+
     }
 }
