@@ -45,6 +45,7 @@ This repository contains my solutions to various  leetcode
 | [0039-combination-sum](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0055-jump-game) |
@@ -176,6 +177,7 @@ This repository contains my solutions to various  leetcode
 | [0002-add-two-numbers](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -232,6 +234,7 @@ This repository contains my solutions to various  leetcode
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
