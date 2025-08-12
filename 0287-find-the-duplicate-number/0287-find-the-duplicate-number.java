@@ -37,10 +37,8 @@ class Solution {
             {
                 return nums[i];
             }
-            else
-            {
                 map.put(nums[i],1);
-            }
+            
         }
         return -1;
     }
