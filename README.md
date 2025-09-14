@@ -35,6 +35,7 @@ This repository contains my solutions to various  leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0031-next-permutation) |
@@ -273,6 +274,7 @@ This repository contains my solutions to various  leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0027-remove-element) |
@@ -391,6 +393,7 @@ This repository contains my solutions to various  leetcode
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0455-assign-cookies) |
