@@ -21,11 +21,10 @@ class Solution {
         }
         
         if(!word.isEmpty())
-                {
-                    stack.push(word);
+        {
+            stack.push(word);
                     
-                }
-        System.out.println(stack);
+        }
         // chaning stack to string
         StringBuilder string=new StringBuilder();
 
@@ -40,7 +39,8 @@ class Solution {
                 }
             
         }
-        return string.toString();
+        String ans=string.toString();
+        return ans;
         
     }
 }
