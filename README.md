@@ -138,6 +138,7 @@ This repository contains my solutions to various  leetcode
 | [0169-majority-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -206,6 +207,7 @@ This repository contains my solutions to various  leetcode
 | [0148-sort-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0455-assign-cookies) |
@@ -222,6 +224,7 @@ This repository contains my solutions to various  leetcode
 | [0125-valid-palindrome](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0383-ransom-note) |
