@@ -169,6 +169,7 @@ This repository contains my solutions to various  leetcode
 | [0148-sort-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -179,6 +180,7 @@ This repository contains my solutions to various  leetcode
 | [0002-add-two-numbers](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1013-fibonacci-number) |
