@@ -11,7 +11,9 @@
 class Solution {
     public ListNode reverseList(ListNode head) {
         
-        ArrayList<Integer> arraylist=new ArrayList<>();
+        // Apporach 1
+
+    /*    ArrayList<Integer> arraylist=new ArrayList<>();
         // ListNode<Integer> newlist=new ListNode<>();
 
         ListNode temp=head;
@@ -41,6 +43,19 @@ class Solution {
             }
         }
 
+        return newhead;
+        */
+
+        // Apporach 2
+        ListNode newhead=null;
+
+        while(head!=null)
+        {
+            ListNode temp=head.next;
+            head.next=newhead;
+            newhead=head;
+            head=temp;
+        }
         return newhead;
     }
 }
