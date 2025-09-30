@@ -71,18 +71,13 @@ class Solution {
             }
         }
 
-        while(left!=null)
+        if(left!=null)
         {
             temp.next=left;
-                temp=left;
-                left=left.next;
         }
-
-        while(right!=null)
+        if(right!=null)
         {
             temp.next=right;
-                temp=right;
-                right=right.next;
         }
 
         return dummy.next;
