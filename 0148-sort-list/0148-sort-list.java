@@ -9,106 +9,82 @@
  * }
  */
 class Solution {
-    public ListNode sortList(ListNode head) 
-    {
-        /*
-        // Apporach -1 we used a arraylist and sort the arrayList and add the values into linkedlist
-        ArrayList<Integer> arr=new ArrayList<>();
-
-        ListNode temp=head;
-        int count=0;
-        while(temp!=null)
-        {
-            arr.add(temp.val);
-            temp=temp.next;
-            count++;
-        }
+    public ListNode sortList(ListNode head) {
         
-        Collections.sort(arr);
+        if(head==null || head.next==null) return head;
 
-        temp=head;
-        for(int i=0;i<arr.size();i++)
-        {
-            temp.val=arr.get(i);
-            temp=temp.next;
-        }
-        
-        return head;
-        */
+        //we are using merge sort
+            // merge sort step was you have slipt the array to end for each one have only one digit like that
+            
 
-        // Apporach-2 we are using merger sort alogrthim
+        // step -1 Find the middleNode 
+        ListNode middleNode=findmiddleNode(head);
 
-        if(head==null || head.next==null)
-        {
-            return head;
-        }
-
-        // merger sort 
-
-        ListNode middle=findmid(head);
-
+        //step 2 -// make the remmaing List to slipt
         ListNode left=head;
-        ListNode right=middle.next;
-        middle.next=null;
+        ListNode right=middleNode.next;
+        middleNode.next=null;
+
+        // calling the function till the base case satafised
 
         left=sortList(left);
         right=sortList(right);
 
+        // step -3 merging the two numbers
         return merge(left,right);
-        
+
     }
 
-    // finding middle of the linkedlist
-
-    public ListNode findmid(ListNode head)
+    public ListNode findmiddleNode(ListNode head)
     {
+        //using slow & fast pointer pattern
+
         ListNode slow=head;
-        ListNode fast=head.next;
+        ListNode fast=head.next; //we use head.next values bacuse if we use head it give after the middle node so we using this
 
         while(fast!=null && fast.next!=null)
         {
-            slow=slow.next; //we get out middle here
-
+            slow=slow.next;
             fast=fast.next.next;
         }
         return slow;
     }
 
-    //  we are mergering the two Nodes
-
     public ListNode merge(ListNode left,ListNode right)
     {
-            ListNode dummy=new ListNode (-1); //  we are creating a dummy Node to store the sort value
-            ListNode temp=dummy;
-            while(left!=null && right!=null)
-            {
-                if(left.val<right.val)
-                {
-                    temp.next=left;
-                    temp=left;
-                    left=left.next;
-                }
-                else
-                {
-                    temp.next=right;
-                    temp=right;
-                    right=right.next;
-                }
-            }
+        ListNode dummy=new ListNode(-1);
+        ListNode temp=dummy;
 
-            // if left have 3 Node and right was 2 Node 
-            // the left last node was remaing that why we use this if else 
-
-            if(left!=null)  // we checking left!=null
+        while(left!=null && right!=null)
+        {
+            if(left.val<right.val)
             {
                 temp.next=left;
-            } 
-            else if(right!=null)
+                temp=left;
+                left=left.next;
+            }
+            else 
             {
                 temp.next=right;
+                temp=right;
+                right=right.next;
             }
+        }
+
+        while(left!=null)
+        {
+            temp.next=left;
+                temp=left;
+                left=left.next;
+        }
+
+        while(right!=null)
+        {
+            temp.next=right;
+                temp=right;
+                right=right.next;
+        }
 
         return dummy.next;
-
     }
 }
