@@ -201,6 +201,7 @@ This repository contains my solutions to various  leetcode
 | [0268-missing-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1013-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
@@ -372,6 +373,7 @@ This repository contains my solutions to various  leetcode
 | [0287-find-the-duplicate-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/0800-letter-case-permutation) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/thrivendra1/DSA-problems-leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
